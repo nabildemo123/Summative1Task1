@@ -61,7 +61,7 @@ Thank you for playing!
 
 ## Overview
 
-This program is a Python terminal-based game that tests users' math skills. It includes five multiplication questions, with an additional bonus division question if the user scores a perfect 5/5. The program is split into two files for modularity: one for the main logic `main.py` and another for the required functions `functions.py`.
+This program is a Python terminal-based game that tests users' math skills. It includes five multiplication questions, with an additional bonus division question if the user scores a 5/5. The program is split into two files for modularity: one for the main logic `main.py` and another for the required functions `functions.py`.
 
 ---
 

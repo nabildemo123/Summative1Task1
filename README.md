@@ -93,8 +93,8 @@ This file contains three functions:
   print(f"{num_1} × x = {answer}")
   ```
 ### **2. `bonus_question()`**
--**Purpose:** Generates a random divison question.
--**Returns:** A tuple of two integers (`num_1`, `num_2`) and their quotient (`answer`).
+- **Purpose:** Generates a random divison question.
+- **Returns:** A tuple of two integers (`num_1`, `num_2`) and their quotient (`answer`).
 - **Example Usage:**
   ```
   num_1, num_2, answer = bonus_question()

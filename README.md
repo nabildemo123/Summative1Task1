@@ -101,7 +101,7 @@ This file contains three functions:
   print(f"{num_1} / y = {answer}")
   ```
   
-  ### **3. `get_valid_input(prompt)`**
+### **3. `get_valid_input(prompt)`**
 - **Purpose:** Ensures that the user inputs a valid integer.
 - **Parameters:**
   - `prompt (str)`: The message displayed to the user.

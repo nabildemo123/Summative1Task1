@@ -88,9 +88,22 @@ This file contains three functions:
 - **Purpose:** Generates a random multiplication question.
 - **Returns:** A tuple of two integers (`num_1`, `num_2`) and their product (`answer`).
 - **Example Usage:**
-  the func
+  ```
   num_1, num_2, answer = question()
   print(f"{num_1} × x = {answer}")
+  ```
+### **2. `bonus_question()`**
+-**Purpose:** Generates a random divison question.
+-**Returns:** A tuple of two integers (`num_1`, `num_2`) and their quotient (`answer`).
+- **Example Usage:**
+  ```
+  num_1, num_2, answer = bonus_question()
+  print(f"{num_1} / y = {answer}")
+  ```
+
+  
+
+
 
 
 

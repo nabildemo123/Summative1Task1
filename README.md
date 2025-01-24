@@ -115,7 +115,7 @@ This file contains three functions:
 ---
   ## `mains.py`
 
-this is the file that should be run the game.
+this is the file that includes the main function that runs the game.
 
  **Initialize Score:**  
    The program starts by initializing the score to `0`.

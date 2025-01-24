@@ -54,3 +54,46 @@ Thank you for playing!
 
 ![Gameplay](game.PNG)
 
+
+
+
+# Technical Documentation 
+
+## Overview
+
+This program is a Python terminal-based game that tests users' math skills. It includes five multiplication questions, with an additional bonus division question if the user scores a perfect 5/5. The program is split into two files for modularity: one for the main logic `main.py` and another for the required functions `functions.py`.
+
+---
+
+## Code Structure
+
+The program is structured in two files:
+
+1. **`main.py`:**
+   - Contains the primary game logic.
+   - Handles the user interface in the terminal.
+   - Manages scoring and bonus question logic.
+   - imoports functions needed.
+
+2. **`functions.py`:**
+   - reusable functions for generating questions and validating user input.
+
+---
+
+## `functions.py`
+
+This file contains three functions:
+
+### **1. `question()`**
+- **Purpose:** Generates a random multiplication question.
+- **Returns:** A tuple of two integers (`num_1`, `num_2`) and their product (`answer`).
+- **Example Usage:**
+  the func
+  num_1, num_2, answer = question()
+  print(f"{num_1} × x = {answer}")
+
+
+
+
+
+

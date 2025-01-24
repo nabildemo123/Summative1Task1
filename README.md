@@ -53,3 +53,5 @@ Thank you for playing!
 
 
 ![imageofgame](https://github.com/nabildemo123/Summative1Task1/blob/main/game.PNG)
+
+![imageofgame](https://raw.githubusercontent.com/nabildemo123/Summative1Task1/main/game.PNG)

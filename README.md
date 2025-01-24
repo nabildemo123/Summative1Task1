@@ -52,5 +52,5 @@ Well Done! You scored 5/5 and got the bonus question correct!
 Thank you for playing!
 ```
 
-![image](game.PNG)
+![Gameplay](game.PNG)
 

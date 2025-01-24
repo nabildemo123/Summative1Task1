@@ -73,7 +73,7 @@ The program is structured in two files:
    - Contains the primary game logic.
    - Handles the user interface in the terminal.
    - Manages scoring and bonus question logic.
-   - imoports functions needed.
+   - imports functions needed.
 
 2. **`functions.py`:**
    - reusable functions for generating questions and validating user input.

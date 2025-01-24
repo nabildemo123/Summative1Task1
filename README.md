@@ -100,8 +100,20 @@ This file contains three functions:
   num_1, num_2, answer = bonus_question()
   print(f"{num_1} / y = {answer}")
   ```
+  
+  ### **3. `get_valid_input(prompt)`**
+- **Purpose:** Ensures that the user inputs a valid integer.
+- **Parameters:**
+  - `prompt (str)`: The message displayed to the user.
+- **Returns:** A valid integer.
+- **Example Usage:**
+  ```
+  user_input = get_valid_input("What is the value of x?: ")
+  ```
 
   
+
+  ## `mains.py`
 
 
 

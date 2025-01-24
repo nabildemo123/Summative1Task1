@@ -52,5 +52,5 @@ Well Done! You scored 5/5 and got the bonus question correct!
 Thank you for playing!
 
 
-![imageofgame](https://github.com/nabildemo123/Summative1Task1/blob/main/game.PNG)
+![imageofgame](https://github.com/nabildemo123/Summative1Task1/blob/76ebf3e8797611b5f1d6588622ea07dfc0ed5b26/gamescreenshot.PNG)
 

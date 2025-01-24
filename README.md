@@ -52,4 +52,4 @@ Well Done! You scored 5/5 and got the bonus question correct!
 Thank you for playing!
 
 
-![image of game](gamescreenshot.PNG)
+![imageofgame](gamescreenshot.PNG)
